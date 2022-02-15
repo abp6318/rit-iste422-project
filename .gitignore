@@ -25,4 +25,9 @@ hs_err_pid*
 nohup.out
 
 .DS_Store
-./build/
+build/
+.gradle
+*.swp
+LICENSE
+.classpath
+
